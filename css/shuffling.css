@@ -1,0 +1,70 @@
+.header{ width:100%; margin:0 auto; min-width:1000px;}
+.header .nav{ width:1000px; margin:0 auto; overflow:hidden;}
+.header .nav h1{ float:left; line-height:90px; text-align:center;}
+.header .nav ul{ float:right;}
+.header .nav ul li{ float:left; line-height:90px; width:90px; text-align:center; font-size:14px; margin-right:18px;}
+.header .nav ul li a{ width:90px; display:inline-block; transition:.5s;}
+.header .nav ul li a:hover{ background:#1ab4c3; color:#FFF;}
+.header .nav ul .on a{ background:#1ab4c3; color:#FFF;}
+
+#DB_tab16 {width:100%;height:585px;position:relative;overflow:hidden;background:#fff; min-width:1000px;}
+#DB_tab16 .DB_img{position:relative;width:100%; height:560px;}
+#DB_tab16 .DB_img li{position:absolute;width:100%;height:100%;}
+#DB_tab16 .DB_img li a{display:block;width:100%;height:100%;}
+
+#DB_tab16 .DB_btn{position:absolute; bottom:0px;width:100%;text-align:center; }
+#DB_tab16 .DB_btn li{display:inline;cursor:pointer;margin:0 3px}
+#DB_tab16 .DB_dirBtn{position:absolute;width:1060px; height:0; top:140px; left:50%; margin-left:-530px;}
+#DB_tab16 .DB_dirBtn .DB_prev{position:absolute;left:0px;cursor:pointer;}
+#DB_tab16 .DB_dirBtn .DB_next{position:absolute;right:0px;cursor:pointer;}
+ /*主体*/
+.center{ clear:both; width:100%; margin:0 auto; min-width:1000px;}
+.center .top{ width:1000px; margin:0 auto; margin-top:83px;}
+.center .top dl dt{ float:left; margin:0px 40px 0px 40px; }
+.center .top dl dd h1{ float:left; font-size:32px; color:#1ab4c3; margin-right:10px;}
+.center .top dl dd h2{ font-size:16px; color:#c3c3c3; padding-top:8px;}
+.center .top dl dd{ font-size:14px; line-height:30px;}
+.center .top dl input{ width:90px; height:28px; background:#1ab4c3; color:#FFF; font-size:14px; margin-top:12px;}
+.center .line{ clear:both; border:1px solid #e7eaef;}
+
+.center-m{ width:100%; margin:0 auto; overflow:hidden;min-width:1000px;}
+.center-m h1{ text-align:center; font-size:32px; color:#1ab4c3; margin-top:83px;}
+.center-m h2{ text-align:center; font-size:16px; color:#c3c3c3; margin-top:5px;}
+
+.center-m .txt{ width:1000px; margin:0 auto;}
+.center-m .txt dl{ float:left; margin-left:90px; margin-top:60px;}
+.center-m .txt dl dt{ text-align:center; margin-bottom:15px;}
+.center-m .txt dl dd{ text-align:center; font-size:12px; color:#666666;}
+.center-m .txt dl h3{ font-size:18px; color:#2e2e2e;}
+
+.cnetr-bottom{ width:100%; background:#f0f3f6; margin:0 auto; margin-top:82px; overflow:hidden;min-width:1000px;}
+.cnetr-bottom .bottom{ width:1000px; margin:0 auto;}
+.cnetr-bottom .bottom dl{ display:inline-block; padding-bottom:116px;}
+.cnetr-bottom .bottom  h1{ text-align:center; font-size:32px; color:#1ab4c3; margin-top:60px;}
+.cnetr-bottom .bottom  h2{ text-align:center; font-size:16px; color:#c3c3c3; margin-top:5px; margin-bottom:60px;}
+.cnetr-bottom .bottom dl dt{ float:left;}
+.cnetr-bottom .bottom dl dd{ float:left;}
+
+.center-banner{ width:100%; margin:0 auto;min-width:1000px;}
+.center-banner .banner{ width:1000px; margin:0 auto;}
+.center-banner .banner dl{ margin-top:86px;}
+.center-banner .banner dl dt{float:right; margin:0px 60px 0px 66px;}
+.center-banner .banner dl dd h1{float:left; font-size:32px; color:#1ab4c3; margin-top:90px; margin-right:10px;}
+.center-banner .banner dl dd h2{font-size:16px; color:#c3c3c3; padding-top:98px;}
+.center-banner .banner dl dd{font-size:14px; line-height:30px;  margin-left:80px;}
+
+/*页脚*/
+.foot{ clear:both; width:100%; background:#1ab4c3; margin:0 auto; min-width:1000px;}
+.foot .footer{ width:1000px; margin:0 auto; overflow:hidden;}
+.foot .footer ul li{ float:left; font-size:12px; margin-top:55px;}
+.foot .footer ul li a{ color:#FFF;}
+.foot .footer ul li a:hover{ text-decoration:underline;}
+.foot .footer ul span{ width:1px; height:11px; background:#FFF; margin:0 10px 0 10px; display:inline-block; vertical-align:-2px;}
+.foot .footer p{ clear:both; float:left; font-size:12px; color:#FFF; margin-bottom:68px;}
+.foot .footer dl{ float:right; margin-top:-24px;}
+.foot .footer dl dt{ float:left;width:34px; height:34px; border-radius:34px; background:#FFF; display:inline-block; margin-right:8px; margin-top:6px;}
+.foot .footer dl dt img{ margin:5px 6px 5px 8px;}
+.foot .footer dl dd{ float:right; width: 136px;}
+.foot .footer dl dd~dd{ clear:both;}
+.foot .footer dl dd h1{ font-size:12px; font-weight:bold; color:#FFF; margin-right:80px;}
+.foot .footer dl dd h2{ font-size:20px; color:#FFF; font-weight:bold; margin-top:-18px;}

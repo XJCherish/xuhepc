@@ -1,0 +1,44 @@
+.header{ width:100%; margin:0 auto; min-width:1000px;}
+.header .nav{ width:1000px; margin:0 auto; overflow:hidden;}
+.header .nav h1{ float:left; line-height:90px; text-align:center;}
+.header .nav ul{ float:right;}
+.header .nav ul li{ float:left; line-height:90px; width:90px; text-align:center; font-size:14px; margin-right:18px;}
+.header .nav ul li a{ width:90px; display:inline-block; transition:.5s;}
+.header .nav ul li a:hover{ background:#1ab4c3; color:#FFF;}
+.header .nav ul .on a{ background:#1ab4c3; color:#FFF;}
+/*主体*/
+.banner{ clear:both; width:100%; height:410px; text-align:center; min-width:1000px;}
+
+.center{ width:1000px; margin:0 auto; min-width:1000px; margin-top:80px;}
+.center ul{ text-align:center; font-size:20px; color:#8394a6; line-height:36px;}
+.center video{ margin-left:158px; margin-top:38px;}
+
+.center dl{ text-align:center; line-height:36px; font-size:22px; color:#8394a6; margin-top:64px;}
+
+.centerbox{ width:1000px; margin:0 auto; margin-top:60px; min-width:1000px;}
+.centerbox dl dt{ float:left;}
+.centerbox dl dd{ float:left;}
+.centerbox dl{ display:inline-block; margin-bottom:80px;}
+.centerbottom{ width:100%; margin:0 auto; background:#f0f3f6; overflow:hidden;min-width:1000px;}
+.centerbottom .box{ width:1000px; margin:0 auto; margin-top:76px;}
+.centerbottom .box dl{ float:left; margin-left:100px; text-align:center;margin-bottom:64px;}
+.centerbottom .box dl:nth-child(2){ margin-left:90px;}
+.centerbottom .box dl:nth-child(3){ margin-left:90px;}
+.centerbottom .box dl:nth-child(4){ margin-left:90px;}
+.centerbottom .box dl dd{ text-align:center; color:#666666; font-size:14px; display:block; margin-top:10px; }
+.centerbottom .banner3{ clear:both; width:100%; height:310px; text-align:center;}
+/*页脚*/
+.foot{ width:100%; background:#1ab4c3; margin:0 auto; min-width:1000px;}
+.foot .footer{ width:1000px; margin:0 auto; overflow:hidden;}
+.foot .footer ul li{ float:left; font-size:12px; margin-top:55px;}
+.foot .footer ul li a{ color:#FFF;}
+.foot .footer ul li a:hover{ text-decoration:underline;}
+.foot .footer ul span{ width:1px; height:11px; background:#FFF; margin:0 10px 0 10px; display:inline-block; vertical-align:-2px;}
+.foot .footer p{ clear:both; float:left; font-size:12px; color:#FFF; margin-bottom:68px;}
+.foot .footer dl{ float:right; margin-top:-24px;}
+.foot .footer dl dt{ float:left;width:34px; height:34px; border-radius:34px; background:#FFF; display:inline-block; margin-right:8px; margin-top:6px;}
+.foot .footer dl dt img{ margin:5px 6px 5px 8px;}
+.foot .footer dl dd{ float:right; width:136px;}
+.foot .footer dl dd~dd{ clear:both;}
+.foot .footer dl dd h1{ font-size:12px; font-weight:bold; color:#FFF; margin-right:80px;}
+.foot .footer dl dd h2{ font-size:20px; color:#FFF; font-weight:bold; margin-top:-18px;}
